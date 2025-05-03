@@ -45,7 +45,7 @@ We will have our virtual machines set up in Azure. One will be our domain server
 <img src="https://i.imgur.com/TXvc9Ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You will log into the "Domain Control Server" using "Remote Desktop". When you're in, you will access the "Server Manager" and "Click" on "Tools" in the top right corner. The you will click on "Group Policy Management".
+You will log into the "Domain Control Server" using "Remote Desktop". When you're in, you will access the "Server Manager" and "Click" on "Tools" in the top right corner. Then you will click on "Group Policy Management".
 </p>
 <br />
 
