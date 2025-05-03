@@ -6,11 +6,11 @@
 This tutorial demonstrates the implementation of a group policy in active directory that will block mircosoft edge for users.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Video Demonstration:</h2>
 
 - ### https://vimeo.com/1081026150/3bd8014f33?ts=0&share=copy
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies Used:</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -19,7 +19,7 @@ This tutorial demonstrates the implementation of a group policy in active direct
 - Group Policy Managment 
 - Control Panel (Inside Windows)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used>: </h2>
 
 - Windows 10</b> (21H2)
 
@@ -31,7 +31,7 @@ This tutorial demonstrates the implementation of a group policy in active direct
 - Item 4
 - Item 5
 
-<h2>Implementstion Steps</h2>
+<h2>Implementstion Steps:</h2>
 
 <p>
 <img src="https://i.imgur.com/4y3dS95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -97,7 +97,7 @@ Log into your Virtual Machine for active directory users and log in as a user.
 </p>
 <br />
 
-<h2>Deletion Steps</h2>
+<h2>Deletion Steps:</h2>
 
 <p>
 <img src="https://i.imgur.com/e23Bvy3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
