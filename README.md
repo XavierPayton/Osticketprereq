@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/9bXBwVm.png" alt="osTicket logo"/>
 </p>
 
-<h1>Group Policy - Implementation </h1>
+<h1>Group Policy - Implementation/Deletion </h1>
 This tutorial demonstrates the implementation of a group policy in active directory that will block mircosoft edge for users.<br />
 
 
@@ -25,11 +25,7 @@ This tutorial demonstrates the implementation of a group policy in active direct
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- >Group Policy - Implementation/Deletion
 
 <h2>Implementstion Steps:</h2>
 
