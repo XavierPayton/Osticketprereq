@@ -77,7 +77,7 @@ When here click "Enabled". Under options and list of dissallowed applications cl
 <img src="https://i.imgur.com/D9EhKIR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will need to update the GPO for the Group Policy settings to take effect immediatley, click the "Windows Icon" in the bottom left of the computer. Open up the "Control Panel". When opened type in "gpupdate /force", this will update the GPO to be enacted immediatley.
 </p>
 <br />
 
