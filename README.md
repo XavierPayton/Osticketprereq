@@ -3,7 +3,7 @@
 </p>
 
 <h1>Group Policy - Implementation </h1>
-This tutorial outlines the implementation of group policies through active directory being enacted on users.<br />
+This tutorial outlines the implementation of group policies through active directory and being enacted on users.<br />
 
 
 <h2>Video Demonstration</h2>
