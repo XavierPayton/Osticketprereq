@@ -19,7 +19,7 @@ This tutorial demonstrates the implementation of a group policy in active direct
 - Group Policy Managment 
 - Control Panel (Inside Windows)
 
-<h2>Operating Systems Used>: </h2>
+<h2>Operating Systems Used:</h2>
 
 - Windows 10</b> (21H2)
 
