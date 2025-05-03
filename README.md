@@ -3,12 +3,12 @@
 </p>
 
 <h1>Group Policy - Implementation </h1>
-This tutorial outlines the implementation of group policies through active directory and being enacted on users.<br />
+This tutorial demonstrates the implementation of a group policy in active directory that will block mircosoft edge for users.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### https://vimeo.com/1081026150/3bd8014f33?ts=0&share=copy
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,6 +16,7 @@ This tutorial outlines the implementation of group policies through active direc
 - Remote Desktop
 - Domain Control Server
 - Active Directory
+- Group Policy Managment 
 - Control Panel (Inside Windows)
 
 <h2>Operating Systems Used </h2>
@@ -36,7 +37,7 @@ This tutorial outlines the implementation of group policies through active direc
 <img src="https://i.imgur.com/4y3dS95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will have our virtual machines set up in Azure. One will be our domain server controller and the other will be our virtual machine for our regular everyday users
 </p>
 <br />
 
