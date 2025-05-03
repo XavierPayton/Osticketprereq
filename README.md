@@ -61,7 +61,7 @@ Click on whichever "Domain Policy" that contains your "users". Then click "CREAT
 <img src="https://i.imgur.com/sAkWy3s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the right side under "User Configuration" Click "Policies" > "Adminisrative Templates: Policies" > "System". Scroll all the way down on the left side and click "Don't Run Specified Windows Applications"
+On the right side under "User Configuration" Click "Policies" > "Adminisrative Templates: Policies" > "System". Scroll all the way down in the system settings  and click "Don't Run Specified Windows Applications"
 </p>
 <br />
 
