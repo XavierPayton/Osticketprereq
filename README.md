@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/9bXBwVm.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/fIhIKwF.png" alt="osTicket logo"/>
 </p>
 
 <h1>Group Policy - Implementation/Deletion </h1>
