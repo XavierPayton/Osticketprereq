@@ -69,7 +69,7 @@ On the right side under "User Configuration" Click "Policies" > "Adminisrative T
 <img src="https://i.imgur.com/EvKHkji.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-When here click "Enabled". Under options and list of dissallowed applications click "Show" and Type in "msegde.exe" Click > "OK" > "Apply" > "OK"
+When here click "Enabled". Then under "options" and "list of dissallowed applications" click "Show" and Type in "msegde.exe" Click > "OK" > "Apply" > "OK"
 </p>
 <br />
 
