@@ -37,7 +37,7 @@ This tutorial demonstrates the implementation of a group policy in active direct
 <img src="https://i.imgur.com/4y3dS95.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We will have our virtual machines set up in Azure. One will be our domain server controller and the other will be our virtual machine for our regular everyday users
+We will have our virtual machines set up in Azure. One will be our domain server controller (ACTIVE). The other will be our virtual machine for our regular everyday users (CLIENT 1)
 </p>
 <br />
 
@@ -45,7 +45,7 @@ We will have our virtual machines set up in Azure. One will be our domain server
 <img src="https://i.imgur.com/TXvc9Ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will log into the "Domain Control Server" using "Remote Desktop". When you're in, you will access the "Server Manager" and "Click" on "Tools" in the top right corner. The you will click on "Group Policy Management".
 </p>
 <br />
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/nQ4o0YH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on whichever "Domain Policy" that contains your "users". Then click "CREATE A GPO IN THIS DOMAIN, AND LINK IT HERE". After creating a name for the GPO right click the newly created GPO and click "EDIT"
 </p>
 <br />
 
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/sAkWy3s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On the right side under "User Configuration" Click "Policies" > "Adminisrative Templates: Policies" > "System". Scroll all the way down on the left side and click "Don't Run Specified Windows Applications"
 </p>
 <br />
 
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/EvKHkji.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When here click "Enabled". Under options and list of dissallowed applications click "Show" and Type in "msegde.exe" Click > "OK" > "Apply" > "OK"
 </p>
 <br />
 
