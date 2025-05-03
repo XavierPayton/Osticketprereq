@@ -93,7 +93,7 @@ Log into your Virtual Machine for active directory users and log in as a user.
 <img src="https://i.imgur.com/FyxigzA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"Microsoft Edge" has been blocked. Not acciable for users.
+"Microsoft Edge" has been blocked. Not accessible for users.
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Log into your Virtual Machine for active directory users and log in as a user.
 <img src="https://i.imgur.com/e23Bvy3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back into your "Domain Server Controller" virtual machine and open up the "server Manager". Go to "Tools" in the etop right corner and Click on "Group policy Manager". Go to your newly created group policy under the GPU with all of your users, right click the GPO and hit delete.
 </p>
 <br />
 
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/xz8uHuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Update the group policy in the "Control Panel" on both Virtual Machines.
 </p>
 <br />
 
@@ -119,6 +119,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/o1lG1DL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Users can now access Microsot Edge.
 </p>
 <br />
