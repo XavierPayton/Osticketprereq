@@ -12,7 +12,7 @@ This tutorial demonstrates the implementation of a group policy in active direct
 
 <h2>Environments and Technologies Used:</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computers)
 - Remote Desktop
 - Domain Control Server
 - Active Directory
