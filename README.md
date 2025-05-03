@@ -25,7 +25,8 @@ This tutorial demonstrates the implementation of a group policy in active direct
 
 <h2>List of Prerequisites</h2>
 
-- >Group Policy - Implementation/Deletion
+- Group Policy - Implementation/Deletion
+  
 
 <h2>Implementstion Steps:</h2>
 
