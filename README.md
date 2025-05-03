@@ -103,7 +103,7 @@ Log into your Virtual Machine for active directory users and log in as a user.
 <img src="https://i.imgur.com/e23Bvy3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back into your "Domain Server Controller" virtual machine and open up the "server Manager". Go to "Tools" in the etop right corner and Click on "Group policy Manager". Go to your newly created group policy under the GPU with all of your users, right click the GPO and hit delete.
+Go back into your "Domain Server Controller" virtual machine and open up the "server Manager". Go to "Tools" in the top right corner and Click on "Group policy Manager". Go to your newly created group policy under the GPU with all of your users, right click the GPO and hit delete.
 </p>
 <br />
 
